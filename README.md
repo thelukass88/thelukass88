@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning to use React, Manage Component Trees, MySGL, Databases and creating my own API
 - 🤔 I’m planning to learn about Blockchain, PostgreSQL, Python
 
-
+![image](https://github.com/thelukass88/thelukass88/assets/128861516/52aa4689-95c3-49a9-a48e-485a801f532c)
 
 <!--
 **thelukass88/thelukass88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

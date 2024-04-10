@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a revision site for students preparing for their summer exams - see my Shakespeers repo
+- 🌱 I’m currently learning to use React, Manage Component Trees, MySGL, Databases and creating my own API
+- 🤔 I’m planning to learn about Blockchain, PostgreSQL, Python
+
+
+
 <!--
 **thelukass88/thelukass88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,9 +1,9 @@
 ## $$\boxed{\color{lightgreen} Hello \space there, \space World}$$
 I'm Luke, a Junior Web Developer, with years of experience in Education and Leadership that I am keen to bring to a career in Full Stack Web Development.
 
-* ⭐️ My speciality is in Javascript and Js Libraries such as React
+* ⭐️ My speciality is in Javascript and JS Libraries such as React
 * 🔭 I’m currently working on an educational app using React
-* 📖 I'm currently learning about MySQl, PostgreSQL and Databases
+* 📖 I'm currently learning about MySQL, PostgreSQL and Databases
 * 🤔 I’m planning to learn Blockchain and Python
 
 ## Experience: Current Technologies 

@@ -1,4 +1,4 @@
-## $$\boxed{\color{lightgreen} Hello there!\space World}$$
+## $$\boxed{\color{lightgreen} Hello \space there, \space World}$$
 I'm Luke, a Junior Web Developer, with years of experience in Education and Leadership that I am keen to bring to a career in Full Stack Web Development.
 
 * ⭐️ My speciality is in Javascript and Js Libraries such as React
